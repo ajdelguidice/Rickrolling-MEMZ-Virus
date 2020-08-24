@@ -1,0 +1,9 @@
+v1.0 - 
+  Uploaded all of the files
+
+v1.1 - 
+  Changed payload.bat to execute MEMZ.exe before WannaCry to avoid issues. 
+  Changed payload.bat so MEMZ.exe doesn't have to be closed before WannaCry executes.
+  Fixed spelling mistakes.
+  Fixed the .lck files so they work on vms other than mine.
+  Fixed the command to minimize the cmd window so it works on Windows 7
